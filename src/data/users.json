@@ -1,0 +1,8 @@
+{
+"users":[
+{"name":"Dariel","password":"123", "id":1, "game":1},
+{"name":"Rey","password":"123", "id":2, "game":2},
+{"name":"Jose","password":"123", "id":3, "game":1},
+{"name":"Javier","password":"123", "id":4, "game":1},
+{"name":"Olia","password":"123", "id":5, "game":1}
+]}
